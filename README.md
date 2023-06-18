@@ -5,5 +5,5 @@ This repository contains a method to detect **objects (refered from labels.txt) 
 
 ## 🔨 Environment
 
-- Python v
+- Python
 - OpenCV
